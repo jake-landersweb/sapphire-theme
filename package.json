@@ -1,0 +1,25 @@
+{
+  "name": "sapphire-theme",
+  "displayName": "Sapphire Theme",
+  "description": "Private theme to use for my development",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/whizkydee/vscode-palenight-theme",
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sapphire",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sapphire-color-theme.json"
+      }
+    ]
+  }
+}
