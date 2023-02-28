@@ -2,11 +2,12 @@
   "name": "sapphire-theme",
   "displayName": "Sapphire Theme",
   "description": "Private theme to use for my development",
-  "version": "0.0.1",
+  "version": "0.5.0",
   "repository": {
     "url": "https://github.com/whizkydee/vscode-palenight-theme",
     "type": "git"
   },
+  "license": "MIT",
   "engines": {
     "vscode": "^1.75.0"
   },
